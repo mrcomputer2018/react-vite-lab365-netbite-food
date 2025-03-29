@@ -5,9 +5,13 @@ Projeto **NextBite Food Delivery**.
 ````md
 # 🍔 NextBite Food
 
-**NextBite Food** é um aplicativo web de delivery criado com **ReactJS**, **Vite**, **TypeScript**, **TailwindCSS v4**, **shadcn/ui** e outras bibliotecas modernas. Este projeto está sendo desenvolvido especialmente para os **alunos e ex-alunos do Lab365**, como parte das aulas do **Grupo de Estudo de React** da comunidade lab365 no Discord.
+**NextBite Food** é um aplicativo web de delivery criado com **ReactJS**, **Vite**, **TypeScript**,
+**TailwindCSS v4**, **shadcn/ui** e outras bibliotecas modernas. Este projeto está sendo desenvolvido
+especialmente para os **alunos e ex-alunos do Lab365**, como parte das aulas do
+**Grupo de Estudo de React** da comunidade lab365 no Discord.
 
-Nosso objetivo é proporcionar uma experiência de aprendizado prática e moderna, utilizando tecnologias do mercado para criar um produto real, funcional e com ótima usabilidade.
+Nosso objetivo é proporcionar uma experiência de aprendizado prática e moderna, utilizando tecnologias do
+mercado para criar um produto real, funcional e com ótima usabilidade.
 
 ---
 
@@ -62,7 +66,8 @@ Este projeto tem como propósito:
 > Componentes sem estilo ou comportamento estranho.
 
 -   💡 **Solução:**
-    -   Certifique-se de que o `tailwind.config.ts` está com as configurações corretas (inclusive os temas e paths de conteúdo).
+    -   Certifique-se de que o `tailwind.config.ts` está com as configurações corretas (inclusive os
+        temas e paths de conteúdo).
     -   Execute `npx shadcn-ui@latest init` para iniciar corretamente o projeto com as configurações sugeridas.
 
 ---
