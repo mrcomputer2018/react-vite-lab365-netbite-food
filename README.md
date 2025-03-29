@@ -43,7 +43,8 @@ Este projeto tem como propósito:
 
 > **Exemplo:** `Property 'X' does not exist on type...`
 
--   💡 **Solução:** Verifique se a biblioteca tem suporte oficial a TypeScript. Caso contrário, instale os tipos manualmente com `@types/nome-da-biblioteca`.
+-   💡 **Solução:** Verifique se a biblioteca tem suporte oficial a TypeScript. Caso contrário,
+    instale os tipos manualmente com `@types/nome-da-biblioteca`.
 
 ---
 
@@ -70,7 +71,8 @@ Este projeto tem como propósito:
 
 > Navegação ou fallback não funcionando.
 
--   💡 **Solução:** Confirme se o `RouterProvider` e as rotas foram configuradas corretamente. Para aplicações Vite + React Router, use sempre `BrowserRouter` com rotas encapsuladas e o fallback adequado.
+-   💡 **Solução:** Confirme se o `RouterProvider` e as rotas foram configuradas corretamente.
+    Para aplicações Vite + React Router, use sempre `BrowserRouter` com rotas encapsuladas e o fallback adequado.
 
 ---
 
@@ -119,7 +121,8 @@ npm run build      # Gera a versão de produção
 
 ## 🤝 Agradecimentos
 
-A todos os participantes da comunidade do Discord do Lab365, que estão tornando este projeto possível com entusiasmo e colaboração.
+A todos os participantes da comunidade do Discord do Lab365, que estão
+tornando este projeto possível com entusiasmo e colaboração.
 
 ---
 
@@ -129,5 +132,6 @@ A todos os participantes da comunidade do Discord do Lab365, que estão tornando
 
 ---
 
-Se quiser que eu adicione badges, imagens, exemplos de UI ou instruções de deploy futuramente (Vercel, Netlify etc), posso complementar!
+Se quiser que eu adicione badges, imagens, exemplos de UI ou instruções de
+deploy futuramente (Vercel, Netlify etc), posso complementar!
 ```
